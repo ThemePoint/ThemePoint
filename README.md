@@ -48,4 +48,8 @@ Website: <a target="_blank" href="https://www.themepoint.de">https://www.themepo
 
 ### My recent activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#74](https://github.com/trivago/prettier-plugin-twig-melody/issues/74) in [trivago/prettier-plugin-twig-melody](https://github.com/trivago/prettier-plugin-twig-melody)
+2. ❗️ Closed issue [#4762](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/4762) in [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+3. 🗣 Commented on [#4762](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/4762) in [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+4. 🗣 Commented on [#399](https://github.com/KnpLabs/snappy/issues/399) in [KnpLabs/snappy](https://github.com/KnpLabs/snappy)
 <!--END_SECTION:activity-->

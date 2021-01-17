@@ -35,9 +35,7 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/electron-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/font awesome-%23339AF0.svg?&style=for-the-badge&logo=font awesome&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/ionic-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/apache cordova-%23E8E8E8.svg?&style=for-the-badge&logo=apache cordova&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
 </p>
 
@@ -56,7 +54,7 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
 </p>
 
-## Tools
+### Tools
 <p>
 <img src="https://img.shields.io/badge/phpstorm-%23000000.svg?&style=for-the-badge&logo=phpstorm&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/codecov-%23F01F7A.svg?&style=for-the-badge&logo=codecov&logoColor=white" height=25>
@@ -70,7 +68,7 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 <img src="https://img.shields.io/badge/probot-%2300B0D8.svg?&style=for-the-badge&logo=probot&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/plesk-%2352BBE6.svg?&style=for-the-badge&logo=plesk&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/github actions-%232088FF.svg?&style=for-the-badge&logo=github actions&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/github_actions-%232088FF.svg?&style=for-the-badge&logo=github_actions&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?&style=for-the-badge&logo=bitwarden&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/sentry-%23362D59.svg?&style=for-the-badge&logo=sentry&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" height=25>

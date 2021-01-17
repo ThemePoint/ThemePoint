@@ -2,8 +2,8 @@ Hi there :wave:
 ===
 
 My name is Hendrik Legge, and I am a Software Engineer :rocket: based in Paderborn, Germany.  
-I'm currently work on several projects and Web-Services all over the web. :computer:  
-My focus is set to modern web application based on [symfony](https://symfony.com) and some other Web-Frameworks.  
+I'm currently work on several projects and services all over the web. :computer:  
+My focus is set to modern web application based on [symfony](https://symfony.com), [laravel](https://laravel.com) and other technologies.  
 I maintain open-source projects to several organisations and contribute to a wide range of open-source projects.  
 Interested in one of my projects? Feel free to contact me! :e-mail:
 

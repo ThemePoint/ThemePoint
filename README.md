@@ -30,8 +30,6 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 <img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/jquery-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/angularjs-%23DD0031.svg?&style=for-the-badge&logo=angularjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/cakephp-%23D33C43.svg?&style=for-the-badge&logo=cakephp&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/electron-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" height=25>
@@ -49,7 +47,6 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/matomo-%233152A0.svg?&style=for-the-badge&logo=matomo&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
 </p>

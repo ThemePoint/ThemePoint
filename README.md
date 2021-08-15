@@ -61,6 +61,9 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 
 ### Follow me on
 <p>
+<a target="_blank" href="https://www.themepoint.de" title="Xing">
+<img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25>
+</a>
 <a target="_blank" href="https://github.com/ThemePoint" title="GitHub">
 <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
 </a>

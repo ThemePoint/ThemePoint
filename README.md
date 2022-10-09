@@ -78,6 +78,11 @@ Interested in one of my projects? Feel free to contact me! :e-mail:
 </a>
 </p>
 
+### Open-Source Projects
+<p>
+Most of my Open-Source Projects can be found in <a target="_blank" href="https://github.com/flexicsystems">Flexic-Systems</a> Organisation.
+</p>
+
 ### Get in touch
 <p>
 E-Mail: <a href="mail:hendrik.legge@themepoint.de">hendrik.legge@themepoint.de</a><br/>
